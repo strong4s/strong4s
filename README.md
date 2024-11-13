@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strong4s. You can call me Francis.
 - 👀 I’m interested in data science projects which focus on utilities such as energy, transportation, and water.
 
-- 🌱 I’m currently learning SQL, Tensorflow, and PowerBI. 
+- 🌱 I’m currently learning Tensorflow, and PowerBI. 
 
 - 📫 How to reach me:
  -   LinkedIn: https://www.linkedin.com/in/francis-quintana-5a8760136/
