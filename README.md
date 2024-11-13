@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @strong4s. You can call me Francis. My github username is inspired by one of the four fundamental forces  in physics.
-
+- 👋 Hi, I’m @strong4s. You can call me Francis.
 - 👀 I’m interested in data science projects which focus on utilities such as energy, transportation, and water.
 
 - 🌱 I’m currently learning SQL, Tensorflow, and PowerBI. 
